@@ -3,7 +3,7 @@
 
 ## log
 
-新增一个超赞的APP导航栏！
+新增一个超赞的APP导航栏！  2022/05/29
 
 ![](https://fastly.jsdelivr.net/gh/Jaolvv/All_Images_url@main/img/1653834074365Result.gif)
 
